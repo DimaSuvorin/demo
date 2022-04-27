@@ -20,3 +20,5 @@
 ** Payment/button2
 ** Payment/button3
 * Payment/button4
+* Sales
+* Sales/button1
