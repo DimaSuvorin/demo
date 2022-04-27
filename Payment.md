@@ -15,7 +15,8 @@
 * Добавлена новая строка неосредственно в GitHub.com 23.04.22 11:10
 * Добавлена еще одна строка неосредственно в GitHub.com 23.04.22 11:15
 * Добавлена еще одна строка неосредственно в GitHub.com 23.04.22 11:28
-** Payment
+* Payment
 ** Payment/button1
 ** Payment/button2
 ** Payment/button3
+* Payment/button4
